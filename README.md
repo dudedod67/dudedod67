@@ -38,7 +38,7 @@ I believe I have a good sense of humor... or at least I think I do! 😄 My frie
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,flutter" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,java,nextjs,mysql,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,java,mysql,dart" /><br>
 </div>
 
 <br/>
