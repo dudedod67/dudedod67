@@ -9,14 +9,17 @@
 <br/>
 
 <div align="center">
+    
+## I'm a passionate mobile app developer who loves creating sleek, user-friendly apps. Welcome to my GitHub profile!
  
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+## 🌱 What I'm currently learning
+I’m diving deep into **Flutter** to build beautiful, responsive mobile applications that work seamlessly on Android. It's been a fun journey!
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+## 💬 Let's talk about...
+**Flutter**: From state management to custom widgets, I’ve got you covered!
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+## ⚡ Fun fact about me
+I believe I have a good sense of humor... or at least I think I do! 😄 My friends are still figuring it out. 
 
  </div>
  
