@@ -10,15 +10,15 @@
 
 <div align="center">
     
-## I'm a passionate mobile app developer who loves creating sleek, user-friendly apps. Welcome to my GitHub profile!
+I'm a passionate mobile app developer who loves creating sleek, user-friendly apps. Welcome to my GitHub profile!
  
-## 🌱 What I'm currently learning
+🌱 What I'm currently learning
 I’m diving deep into **Flutter** to build beautiful, responsive mobile applications that work seamlessly on Android. It's been a fun journey!
 
-## 💬 Let's talk about...
+💬 Let's talk about...
 **Flutter**: From state management to custom widgets, I’ve got you covered!
 
-## ⚡ Fun fact about me
+⚡ Fun fact about me
 I believe I have a good sense of humor... or at least I think I do! 😄 My friends are still figuring it out. 
 
  </div>
