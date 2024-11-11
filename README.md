@@ -70,10 +70,4 @@ I'm a passionate mobile app developer who loves creating sleek, user-friendly ap
 
 ---
 
-<h2 align="center">🎨 Creative Corner 🎨</h2>
-<div align="center">
-    <a href="https://github.com/salesp07"><img src="https://img.shields.io/badge/-Follow%20Me!-lightblue?style=for-the-badge" alt="Follow Me Badge" /></a>
-    <img src="https://img.shields.io/github/followers/salesp07?label=Follow&style=social" alt="GitHub Followers" />
-</div>
-
 <br/>
