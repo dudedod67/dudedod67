@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=4500&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=70&lines=Hello,+There!😁🙌+%F0%9F%91%8B;I'm+Dude+Nova+Ariyanto;A+Passionate+Flutter+Developer+From+Indonesia;Let's+Collaborate+and+Create+Amazing+Apps!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=4500&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=70&lines=Hello,+There!😁+%F0%9F%91%8B;I'm+Dude+Nova+Ariyanto;A+Passionate+Flutter+Developer+From+Indonesia;Let's+Collaborate+and+Create+Amazing+Apps!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
     </a>
 </h1>
 
