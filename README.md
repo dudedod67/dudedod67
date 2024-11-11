@@ -2,54 +2,53 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=4500&pause=1000&color=C6EAFF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%98%81%F0%9F%99%8C;I'm+a+Flutter+Developer+From+Indonesia;My+Name+is+Dude+Nova+Ariyanto;Hopefully+we+can+collaborate!+%F0%9F%A4%91%F0%9F%98%88" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=4500&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=70&lines=Hello,+World!+%F0%9F%91%8B;I'm+Dude+Nova+Ariyanto;A+Passionate+Flutter+Developer+From+Indonesia;Let's+Collaborate+and+Create+Amazing+Apps!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
     </a>
 </h1>
 
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=salesp07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dude Nova's GitHub Streak" />
+</div>
+
 <br/>
 
-<div align="centerleft">
+<div align="center">
     
+### 👨‍💻 About Me
 I'm a passionate mobile app developer who loves creating sleek, user-friendly apps. Welcome to my GitHub profile!
- 
-🌱 What I'm currently learning  
-I’m diving deep into **Flutter** to build beautiful, responsive mobile applications that work seamlessly on Android. It's been a fun journey!
 
-💬 Let's talk about...  
-**Flutter**: From state management to custom widgets, I’ve got you covered!
-
-⚡ Fun fact about me  
-I believe I have a good sense of humor... or at least I think I do! 😄 My friends are still figuring it out. 
+- 🌱 **Currently Learning**: Diving deeper into **Flutter** to build responsive, beautiful apps for Android.
+- 💬 **Let's Chat About**: Anything **Flutter**—from state management to custom widgets, I've got you covered.
+- ⚡ **Fun Fact**: I believe I have a good sense of humor... or at least I think I do! 😄 My friends are still figuring it out.
 
 </div>
 
 <div align="center"> 
   <a href="mailto:dudenova723@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/dudee-nova-ariyanto-57b7b5294/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<hr/>
+---
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,flutter" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,java,mysql,dart" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,flutter" alt="Skills Icon Set" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,java,mysql,dart" alt="Skills Icon Set 2" />
 </div>
 
-<br/>
-<hr/>
+---
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My GitHub Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation showing contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<hr/>
+---
 
 <br/>
