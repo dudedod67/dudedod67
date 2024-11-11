@@ -1,8 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dudenova723.dudenova723" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=4500&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=70&lines=Hello,+There!+😁;I'm+Dude+Nova+Ariyanto;A+Passionate+Flutter+Developer+From+Indonesia;Let's+Collaborate+and+Create+Amazing+Apps!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&duration=4500&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&height=70&lines=Hello,+There!😁+%F0%9F%91%8B;I'm+Dude+Nova+Ariyanto;A+Passionate+Flutter+Developer+From+Indonesia;Let's+Collaborate+and+Create+Amazing+Apps!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" />
     </a>
 </h1>
 
@@ -42,38 +42,15 @@ I'm a passionate mobile app developer who loves creating sleek, user-friendly ap
 <div align="center">
   <h2>🐍 My GitHub Contributions 🐍</h2>
   <br>
-  <img alt="Snake animation showing contributions" src="https://raw.githubusercontent.com/dudenova723/dudenova723/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation showing contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dudenova723&show_icons=true&theme=tokyonight&hide_border=true" alt="Dude Nova's GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=dudenova723&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dude Nova's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=salesp07&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Dude Nova's GitHub Streak" />
 </div>
 
 ---
-
-<h2 align="center">📊 Most Used Languages 📊</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudenova723&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
-
----
-
-<h2 align="center">✨ Fun Fact & Inspiration ✨</h2>
-<p align="center">
-    "Coding is like magic; the more you practice, the better your spells! 🎩✨<br>
-    Let's make amazing things happen together!"
-</p>
-
----
-
-<h2 align="center">🎨 Creative Corner 🎨</h2>
-<div align="center">
-    <a href="https://github.com/dudenova723"><img src="https://img.shields.io/badge/-Follow%20Me!-lightblue?style=for-the-badge" alt="Follow Me Badge" /></a>
-    <img src="https://img.shields.io/github/followers/dudenova723?label=Follow&style=social" alt="GitHub Followers" />
-</div>
 
 <br/>
